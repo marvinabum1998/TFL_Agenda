@@ -6,7 +6,7 @@ First Iteration Due: 15/06/2018 (Working Prototype) ()
       
       
       
-      Design () White boi Job
+      Design () Marvin's Job
          Main Screen()
          Calendar Screen()
          // Ignore TFL Logo
@@ -15,6 +15,6 @@ First Iteration Due: 15/06/2018 (Working Prototype) ()
          
          
          
-      Programming () Fat boi Job 
+      Programming () Chris' Job 
            Main Screen()
            Calendar Screen()
